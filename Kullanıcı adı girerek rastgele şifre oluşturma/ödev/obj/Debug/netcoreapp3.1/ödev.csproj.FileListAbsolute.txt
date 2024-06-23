@@ -1,0 +1,28 @@
+C:\Users\admin\source\repos\ödev\ödev\bin\Debug\netcoreapp3.1\ödev.exe
+C:\Users\admin\source\repos\ödev\ödev\bin\Debug\netcoreapp3.1\ödev.deps.json
+C:\Users\admin\source\repos\ödev\ödev\bin\Debug\netcoreapp3.1\ödev.runtimeconfig.json
+C:\Users\admin\source\repos\ödev\ödev\bin\Debug\netcoreapp3.1\ödev.runtimeconfig.dev.json
+C:\Users\admin\source\repos\ödev\ödev\bin\Debug\netcoreapp3.1\ödev.dll
+C:\Users\admin\source\repos\ödev\ödev\bin\Debug\netcoreapp3.1\ödev.pdb
+C:\Users\admin\source\repos\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.AssemblyInfo.cs
+C:\Users\admin\source\repos\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.dll
+C:\Users\admin\source\repos\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.pdb
+C:\Users\admin\source\repos\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.genruntimeconfig.cache
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin ödev4\ödev\bin\Debug\netcoreapp3.1\ödev.exe
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin ödev4\ödev\bin\Debug\netcoreapp3.1\ödev.deps.json
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin ödev4\ödev\bin\Debug\netcoreapp3.1\ödev.runtimeconfig.json
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin ödev4\ödev\bin\Debug\netcoreapp3.1\ödev.runtimeconfig.dev.json
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin ödev4\ödev\bin\Debug\netcoreapp3.1\ödev.dll
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin ödev4\ödev\bin\Debug\netcoreapp3.1\ödev.pdb
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin ödev4\ödev\obj\Debug\netcoreapp3.1\ödev.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin ödev4\ödev\obj\Debug\netcoreapp3.1\ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin ödev4\ödev\obj\Debug\netcoreapp3.1\ödev.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin ödev4\ödev\obj\Debug\netcoreapp3.1\ödev.AssemblyInfo.cs
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin ödev4\ödev\obj\Debug\netcoreapp3.1\ödev.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin ödev4\ödev\obj\Debug\netcoreapp3.1\ödev.dll
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin ödev4\ödev\obj\Debug\netcoreapp3.1\ödev.pdb
+C:\Users\admin\Desktop\202113709049 Meryem Çirkin ödev4\ödev\obj\Debug\netcoreapp3.1\ödev.genruntimeconfig.cache
